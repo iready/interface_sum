@@ -1,0 +1,8 @@
+group 'per.zyq.Interface'
+version '0.1'
+
+apply plugin: 'war'
+
+dependencies {
+    compile 'com.jfinal:jfinal:2.1', 'org.zyq.utils:excel:0.1','org.eclipse.jetty:jetty-ajp:8.1.8.v20121106','org.zyq.utils:web:0.1','com.alibaba:fastjson:1.2.7','log4j:log4j:1.2.17'
+}

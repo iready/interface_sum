@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Excel_Interface/Excel_Interface.iml" filepath="$PROJECT_DIR$/.idea/modules/Excel_Interface/Excel_Interface.iml" group="Excel_Interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Excel_Interface/Excel_Interface_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Excel_Interface/Excel_Interface_main.iml" group="Excel_Interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Excel_Interface/Excel_Interface_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Excel_Interface/Excel_Interface_test.iml" group="Excel_Interface" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interface_sum.iml" filepath="$PROJECT_DIR$/.idea/modules/interface_sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interface_sum_main.iml" filepath="$PROJECT_DIR$/.idea/modules/interface_sum_main.iml" group="interface_sum" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/interface_sum_test.iml" filepath="$PROJECT_DIR$/.idea/modules/interface_sum_test.iml" group="interface_sum" />
+    </modules>
+  </component>
+</project>

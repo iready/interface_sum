@@ -1,0 +1,41 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : per.zyq.Interface : Excel_Interface-0.1.war (exploded)">
+    <output-path>$PROJECT_DIR$/out/artifacts/Excel_Interface/exploded/Excel_Interface-0.1.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Excel_Interface_main/web/Web Gradle : Excel_Interface-0.1.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Excel_Interface_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/Excel_Interface/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.codehaus.groovy:groovy:2.4.5" />
+          <element id="library" level="project" name="Gradle: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Gradle: com.jfinal:jfinal:2.1" />
+          <element id="library" level="project" name="Gradle: org.zyq.utils:excel:0.1" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-ajp:8.1.8.v20121106" />
+          <element id="library" level="project" name="Gradle: org.zyq.utils:web:0.1" />
+          <element id="library" level="project" name="Gradle: com.alibaba:fastjson:1.2.7" />
+          <element id="library" level="project" name="Gradle: cglib:cglib-nodep:3.1" />
+          <element id="library" level="project" name="Gradle: jacob:jacob:1.6" />
+          <element id="library" level="project" name="Gradle: org.zyq.utils:core:0.4" />
+          <element id="library" level="project" name="Gradle: jxl:jxl:2.6.12" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-server:8.1.8.v20121106" />
+          <element id="library" level="project" name="Gradle: org.web.s:servlet-api:1.0" />
+          <element id="library" level="project" name="Gradle: commons-io:commons-io:2.3" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty.orbit:javax.servlet:3.0.0.v201112011016" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-continuation:8.1.8.v20121106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-http:8.1.8.v20121106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-io:8.1.8.v20121106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-util:8.1.8.v20121106" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/Excel_Interface/exploded/Excel_Interface-0.1.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
